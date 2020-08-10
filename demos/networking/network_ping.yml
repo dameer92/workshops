@@ -1,7 +1,7 @@
 ---
 - name: TEST CONNECTIVITY TO ALL ROUTERS
   hosts: routers
-  connection: network_cl
+  connection: network_cli
   gather_facts: false
 
   tasks:
