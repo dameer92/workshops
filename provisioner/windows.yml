@@ -9,7 +9,7 @@
     - include_role:
         name: common
     - include_role:
-        name: geerlingguy.gitla
+        name: geerlingguy.gitlab
     - include_role:
         name: gitlab-server
 
